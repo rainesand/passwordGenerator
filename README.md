@@ -2,34 +2,16 @@
 
 #### Created On: 09/15/18
 ​
-#### By (Name of Developer)
+#### By Andrew Raines
 ​
 ## Description
-(Here is a good place to describe the project, what is it's purpose and how does it work.)
-​
-##Features
-​
-*(here you can write the user stories, what does the application do from the user perspective?) 
- 
-​
-​
-## Setup/Installation Requirements
-​
-*(here you can write the steps a user can take to set up the app)
-​
-​
-​
-## Known Bugs
-​
-(if there are any bugs or testing issues list them here as you resolve them.)
-​
+this project is a password generator that takes the users input of how many characters and what kind of characters the user would like to include and creates a random password.
 ## Support and contact details
 ​
-(you can put your email here if people have further questions)
+if you find any bugs or want to know anything else about the application please feel free to reach out to me at
+rainesand26@gmail.com
 ​
 ## Technologies Used
-​
-(Listed below would be the various technoliges used by this application)
 ​
 HTML
 ​
