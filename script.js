@@ -1,10 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
-// var confirmCapital = confirm("would you like to include capital letters?");
-// var confirmLowercase = confirm("would you like to include lowercase letters?");
-// var confirmNumber = confirm("would you like to include numbers?")
+
 function writePassword() {
 
 var specialChar = "!@#$%&*?";
@@ -65,18 +62,12 @@ function generatePassword() {
     alert("password must be at least 8 characters and at most 128 characters.");
     }
   
-    // for (var i = 0; i < passwordLength; i++){
-    //   newPassword = newPassword + alphabetChar.charAt(Math.floor(Math.random() * Math.floor(alphabetChar.length-1))) + capitalChar.charAt(Math.floor(Math.random() * Math.floor(capitalChar.length-1))) + numberChar.charAt(Math.floor(Math.random() * Math.floor(numberChar.length-1))) + specialChar.charAt(Math.floor(Math.random() * Math.floor(specialChar.length-1)));
-    // }
-  }
+}
   
-var password = generatePassword() ;
+generatePassword();
 
-var passwordText = document.querySelector("#password");
-passwordText.value = password;
 
- 
-console.log(newPassword);
+$("#password").text(newPassword);
 }
   // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
