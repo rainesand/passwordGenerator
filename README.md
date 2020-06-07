@@ -22,11 +22,10 @@ Javascript
 ## Contribution Guidlines 
 ​
 Direct link to site:
-(Post the live link to the site here.)
+ https://rainesand.github.io/passwordGenerator/
 ​
 ### License
 ​
-Copyright(c) 2020 By (Your name or team members names)
+Copyright(c) 2020 By (Andrew Raines)
 ​
 This software is licensed under MIT license.
-(this is a common license for tech developed on open source. )
